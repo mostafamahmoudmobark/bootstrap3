@@ -1,0 +1,60 @@
+/* start mobile screen */
+@media(max-width:767px)
+{
+.navbar-nav>li>a 
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navbar-collapse.collapse {
+    min-height: 460px;
+    width: 462px;
+    padding-bottom: 52px;
+    overflow: visible !important;
+}
+.team .our-team .container .person img {
+vertical-align: middle;
+}
+.subscribe .form-inline .form-control {
+
+    margin: 20px auto;
+}
+
+.price-table .price_box 
+{
+    width: 300px;
+    margin: auto;
+    margin-bottom: 60px;
+}
+.footer h2 {
+    color: #8f283a;
+    padding-bottom: 0px;
+    margin-bottom: 40px;
+    text-align: center;
+    padding-top: 40px;
+
+}
+/* end mobile screen */
+
+
+/* start smart screen */
+@media(min-width:768px)and(max-width:991px)
+{
+
+}
+/* end smart screen */
+
+
+/* start md screen */
+@media(min-width:992px) and(max-width:1199px)
+{
+
+}
+/* end md screen */
+
+/* start large screen */
+@media(min-width:1200px)
+{
+
+}
+/* endlarge screen */

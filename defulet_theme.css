@@ -1,0 +1,84 @@
+
+.carousel-indicators .active,
+.dropdown-menu,
+.dropdown-menu .divider,
+.option-box .color-option ul li,
+.option-box span
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus ,
+.navbar-inverse .navbar-nav>.active>a,
+.footer .safy ,
+.footer .safy li
+{   
+    background-color: #e37bab;
+}
+
+#test .carousel-indicators li:active 
+{
+    border: 3px solid #fff;
+}
+
+
+.price-table .price_box,
+.price-table .price_box p,
+.team,
+.option-box .color-option,
+.navbar-right .dropdown-menu
+{
+    border: 2px solid #e37bab;   
+}
+
+#test .carousel-indicators li,
+.price-table .price_box,
+.price-table .price_box,
+.cilent ,
+.price-table,
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:focus,
+.navbar-inverse .navbar-nav>.open>a:hover
+{
+    background-color: #fff;
+}
+
+
+.footer a:hover,
+.option-box .color-option,
+.contact-us .us .container,
+.statistics,
+.statistics .data,
+.subscribe .suboverlay,
+.team,
+.container h1,
+.testimonial h1,
+.testimonial p,
+.testimonial span,
+.feat,
+.features .feat h1,
+.features .feat .glyphicon,
+.carousel-caption h1,
+.dropdown-menu>li>a,
+.navbar-right .dropdown-menu,
+.navbar-inverse .navbar-brand,
+.option-box span,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus 
+{
+    color: #fff;
+}
+
+
+.footer .copyright span,
+.footer .media p,
+.footer h2,
+.footer a,
+.features .feat button,
+.navbar-inverse,
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:focus,
+.navbar-inverse .navbar-nav>.open>a:hover
+.navbar-inverse .navbar-brand span,
+.navbar-inverse .navbar-brand span
+{
+    color: #e37bab;
+}
